@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For NRF905
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+NRF905	KEYWORD1
+nrf905	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+power_up KEYWORD2
+power_down KEYWORD2
+write_config	KEYWORD2
+read_config	KEYWORD2
+set_address	KEYWORD2
+available	KEYWORD2
+busy_channel	KEYWORD2
+recv	KEYWORD2
+send	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+NRF905_BUF_LEN	LITERAL1
+NRF905_CONF_LEN	LITERAL1
